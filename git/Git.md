@@ -22,6 +22,11 @@ Git希望提交记录尽可能**轻量**，因此每次提交时，不会盲目�
 
 Git保存了提交记录的历史，可以**快速**的在不同的提交记录之间进行切换。
 
+示例：
+
+![](https://github.com/guokaide/cs/blob/master/git/gitcommit1.PNG)
+
+![](https://github.com/guokaide/cs/blob/master/git/gitcommit2.PNG)
 
 
 ### 2.Git Branch
@@ -49,6 +54,11 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 * 分支不会造成存储或者内存上的开销。
 * 按照逻辑分解工作到不同的分支比维护那些特别臃肿的分支简单多了。
 
+示例：
+
+![](https://github.com/guokaide/cs/blob/master/git/gitbranch1.PNG)
+
+![](https://github.com/guokaide/cs/blob/master/git/gitbranch2.PNG)
 
 
 ### 3.Git Checkout
@@ -61,6 +71,9 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 
 `git checkout -b <branch>`:  创建并切换到branch分支
 
+示例：
+
+![](https://github.com/guokaide/cs/blob/master/git/gitcheckout.PNG)
 
 
 ### 4.Git Merge
@@ -79,9 +92,21 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 
 在Git中合并2个分支时会产生1个特殊的 提交记录， 它有2个父节点。即将2个父节点本身以及它们所有祖先都包含进来。
 
+示例：
 
+![](https://github.com/guokaide/cs/blob/master/git/gitmerge1.PNG)
 
-从C1出发到C4。
+![](https://github.com/guokaide/cs/blob/master/git/gitmerge2.PNG)
+
+![](https://github.com/guokaide/cs/blob/master/git/gitmerge3.PNG)
+
+![](https://github.com/guokaide/cs/blob/master/git/gitmerge4.PNG)
+
+练习：
+
+如图，从C1出发到C4。
+
+![](https://github.com/guokaide/cs/blob/master/git/gitmerge.PNG)
 
 ```git 
 git branch bugFix
@@ -108,6 +133,15 @@ Rebase 实质上是取出一系列的提交记录，“复制”它们，然后�
 
 Rebase 的优势就是可以创造更加线性的提交历史。
 
+示例：
+
+![](https://github.com/guokaide/cs/blob/master/git/gitrebase1.PNG)
+
+![](https://github.com/guokaide/cs/blob/master/git/gitrebase2.PNG)
+
+![](https://github.com/guokaide/cs/blob/master/git/gitrebase3.PNG)
+
+![](https://github.com/guokaide/cs/blob/master/git/gitrebase4.PNG)
 
 
 从C1出发到C2'。
