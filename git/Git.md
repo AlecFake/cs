@@ -14,9 +14,7 @@ Git保存了提交记录的历史，可以**快速**的在不同的提交记录�
 
 
 
-提交记录如图C0，C1所示：
-
-![Git Commit](https://github.com/guokaide/cs/blob/master/git/git%20commit.PNG)
+`git commit -m <description>`
 
 
 
@@ -38,6 +36,20 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 
 * 分支不会造成存储或者内存上的开销。
 * 按照逻辑分解工作到不同的分支比维护那些特别臃肿的分支简单多了。
+
+
+
+`git branch <branch>`
+
+## Git Checkout
+
+`git chekcout <branch>`： 切换分支到branch
+
+`git checkout -b <branch>`:  创建并切换到branch分支
+
+
+
+## Git Merge
 
 
 
