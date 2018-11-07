@@ -1,12 +1,22 @@
 # Git
 
-## Git Commit
+## 基础篇
+
+###Git Commit
+
+------
+
+
+
+命令：`git commit -m <description>`
+
+
 
 Git 仓库中的提交记录保存的是目录下所有文件的快照，就像是把整个目录复制，然后再粘贴一样，但是更加优雅。
 
 
 
-Git希望提交记录尽可能**轻量**，因此每次提交时，不会盲目复制整个目录，而是将当前版本与上一个版本进行对比，并且将所有差异打包到一起作为一个提交记录。
+Git希望提交记录尽可能**轻量**，因此每次提交时，不会盲目复制整个目录，而是将当前版本与上一个版本进行对比，并且将所有差异打包到一起作为一个提交记录。因此每个提交都有一个父节点。
 
 
 
@@ -14,11 +24,13 @@ Git保存了提交记录的历史，可以**快速**的在不同的提交记录�
 
 
 
-`git commit -m <description>`
+### Git Branch
+
+------
+
+命令：`git branch <branch>`
 
 
-
-## Git Branch
 
 Git 的分支简单指向某个提交记录，因此也很轻量。
 
@@ -39,9 +51,11 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 
 
 
-`git branch <branch>`
+### Git Checkout
 
-## Git Checkout
+------
+
+命令：
 
 `git chekcout <branch>`： 切换分支到branch
 
@@ -49,7 +63,63 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 
 
 
-## Git Merge
+### Git Merge
+
+------
+
+
+
+分支与合并：新建一个分支，在分支上开发某个功能，开发完成后再合并回主线。
+
+
+
+第一种合并方法：`Git Merge`
+
+
+
+在Git中合并2个分支时会产生1个特殊的 提交记录， 它有2个父节点。即将2个父节点本身以及它们所有祖先都包含进来。
+
+
+
+从C1出发到C4。
+
+```git 
+git branch bugFix
+git checkout bugFix
+git commit -m "C2"
+git checkout master
+git commit -m "C3"
+git merge bugFix
+```
+
+
+
+### Git Rebase
+
+------
+
+第二种合并方法：`Git Rebase`
+
+
+
+Rebase 实质上是取出一系列的提交记录，“复制”它们，然后在另外一个地方逐个放下去。
+
+
+
+Rebase 的优势就是可以创造更加线性的提交历史。
+
+
+
+从C1出发到C2'。
+
+```Git
+git checkout -b bugFix
+git commit -m "C2"
+git checkout master
+git commit -m "C3"
+git checkout bugFix
+git rebase master   // 将bugFix合并到master
+```
 
 
 
