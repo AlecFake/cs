@@ -144,7 +144,10 @@ Rebase 的优势就是可以创造更加线性的提交历史。
 ![](https://github.com/guokaide/cs/blob/master/git/gitrebase4.PNG)
 
 
-从C1出发到C2'。
+练习：
+如图，从C1出发到C2'。
+
+![](https://github.com/guokaide/cs/blob/master/git/gitrebase.PNG)
 
 ```Git
 git checkout -b bugFix
