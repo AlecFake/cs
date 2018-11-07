@@ -16,7 +16,7 @@ Git保存了提交记录的历史，可以**快速**的在不同的提交记录�
 
 提交记录如图C0，C1所示：
 
-![Git Commit](E:\github\cs\git\git commit.PNG)
+![Git Commit](https://github.com/guokaide/cs/blob/master/git/git%20commit.PNG)
 
 
 
