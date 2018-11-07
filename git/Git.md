@@ -45,5 +45,4 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 
 ## Appendix
 
-[1]: https://learngitbranching.js.org/	"Learn Git Branching"
-
+[1] : [Learn Git Branching](https://learngitbranching.js.org/)
