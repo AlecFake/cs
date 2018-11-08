@@ -175,10 +175,19 @@ git rebase master   // 将bugFix合并到master
 
 
 示例：
+![](https://github.com/guokaide/cs/blob/master/git/head1.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/head2.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/head3.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/head4.PNG)
 
 
 
 练习：从bugFix分支分离出HEAD
+
+![](https://github.com/guokaide/cs/blob/master/git/headex1.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/headex2.PNG)
+
+
 
 ```java
 git checkout C4（fed2da64c0efc5293610bdd892f82a58e8cbc5d8）  // C4其实是提交记录哈希值
@@ -203,10 +212,15 @@ git checkout fed2 // Git可以识别唯一标识提交记录的前几个字符
 
 
 示例1：`^`
-
-
+![](https://github.com/guokaide/cs/blob/master/git/refer1.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer2.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer3.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer4.PNG)
 
 练习1：
+
+![](https://github.com/guokaide/cs/blob/master/git/refer5_1.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer5_2.PNG)
 
 ```java
 git checkout bugFix^
@@ -215,10 +229,16 @@ git checkout bugFix^
 
 
 示例2：`~<num>`
-
+![](https://github.com/guokaide/cs/blob/master/git/refer6.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer7.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer8.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer9.PNG)
 
 
 练习2：
+
+![](https://github.com/guokaide/cs/blob/master/git/refer10_1.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/refer10_2.PNG)
 
 ```java
 git checkout HEAD^
@@ -241,14 +261,19 @@ git branch -f master C6
 
 
 示例1：
-
-
+![](https://github.com/guokaide/cs/blob/master/git/reset1.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/reset2.PNG)
 
 示例2：
-
+![](https://github.com/guokaide/cs/blob/master/git/revert.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/revert2.PNG)
 
 
 练习：
+
+![](https://github.com/guokaide/cs/blob/master/git/resetandrevert.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/resetandrevert1.PNG)
+![](https://github.com/guokaide/cs/blob/master/git/resetandrevert2.PNG)
 
 ```java
 git reset local^
