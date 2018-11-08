@@ -108,7 +108,7 @@ Git 的分支简单指向某个提交记录，因此也很轻量。
 
 ![](https://github.com/guokaide/cs/blob/master/git/gitmerge.PNG)
 
-```git 
+```java
 git branch bugFix
 git checkout bugFix
 git commit -m "C2"
@@ -149,7 +149,7 @@ Rebase 的优势就是可以创造更加线性的提交历史。
 
 ![](https://github.com/guokaide/cs/blob/master/git/gitrebase.PNG)
 
-```Git
+```java
 git checkout -b bugFix
 git commit -m "C2"
 git checkout master
@@ -157,6 +157,108 @@ git commit -m "C3"
 git checkout bugFix
 git rebase master   // 将bugFix合并到master
 ```
+
+
+
+## 高级篇
+
+### 1. 分离HEAD
+
+------
+
+**HEAD**: 总是指向当前分支上最近一次提交记录。通常情况下，指向分支名（如bugFix）。在提交时，改变了bugFix的状态，这一变化通过HEAD变得可见。
+
+
+
+**分离的HEAD**:让其指向了某个具体的提交记录而不是分支名。即从分支中分离出HEAD.
+
+
+
+示例：
+
+
+
+练习：从bugFix分支分离出HEAD
+
+```java
+git checkout C4（fed2da64c0efc5293610bdd892f82a58e8cbc5d8）  // C4其实是提交记录哈希值
+git checkout fed2 // Git可以识别唯一标识提交记录的前几个字符
+```
+
+
+
+### 2. 相对引用
+
+------
+
+**相对引用**：
+
+* `^` ：向上移动1个提交记录
+* `~<num>`: 向上移动多个提交记录，如`~3`
+
+**强制修改分支位置**：
+
+使用`-f`选项让分支指向另一个提交。例如：`git branch -f master HEAD~3`。这个命令将master 分支强制指向HEAD的第3级父提交。
+
+
+
+示例1：`^`
+
+
+
+练习1：
+
+```java
+git checkout bugFix^
+```
+
+
+
+示例2：`~<num>`
+
+
+
+练习2：
+
+```java
+git checkout HEAD^
+git branch -f bugFix HEAD^
+git branch -f master C6
+```
+
+
+
+### 3. 撤销变更
+
+------
+
+**撤销变更**：由底层部分（暂存区的独立文件或者片段）和上层部分（变更到底是通过哪种方式撤销）组成。
+
+
+
+**两种方法**：`git reset`  和 `git revert`
+
+
+
+示例1：
+
+
+
+示例2：
+
+
+
+练习：
+
+```java
+git reset local^
+git checkout pushed
+git revert pushed
+```
+
+
+
+
 
 
 
