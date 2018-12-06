@@ -180,7 +180,7 @@ The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal 
 
 * rubber-stamp /ˌrʌbər ˈstæmp/
 
-  v. （机械式）盖公章，（未经慎重考虑而）正式通过（rubber stamp n.）
+  v. （机械式）盖公章，（未经慎重考虑而）正式通过（rubber stamp n. 橡皮印章）
 
   e.g.
 
