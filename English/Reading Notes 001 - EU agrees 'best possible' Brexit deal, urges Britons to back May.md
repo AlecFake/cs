@@ -1,4 +1,4 @@
-# Reading Notes 001: EU agrees 'best possible' Brexit deal, urges Britons to back May
+# Reading Notes 001 - EU agrees 'best possible' Brexit deal, urges Britons to back May
 
 2018.12.06
 
