@@ -10,13 +10,23 @@
 
 European Union leaders finally sealed a Brexit deal on Sunday, saying the package agreed with Prime Minister Theresa May was the best Britain will get in a warning to the British parliament not to reject it.
 
-"Those who think that, by rejecting the deal, they would get a better deal, will be disappointed, " European Commission President Jean-Claude Juncker told reporters after the 27 other EU leaders formally endorsed a treaty setting terms for British withdrawal in March and an outline of a future EU-UK trade pact.
+> 欧盟领导人终于在周日签订了一项脱欧协议。为了告诫英国议会不要否决这项协议，他们表示，这一整套协议已获得英国首相特蕾莎·梅首肯，是英国所能争取的最优条款了。
+
+"Those who think that, by rejecting the deal, they would get a better deal, will be disappointed," European Commission President Jean-Claude Juncker told reporters after the 27 other EU leaders formally endorsed a treaty setting terms for British withdrawal in March and an outline of a future EU-UK trade pact.
+
+> “那些认为通过否决这项协议就能争取到更佳版本的人，是会失望的。”欧盟委员会主席让-克洛德·容克告诉记者。此前，他与其余 27 名欧盟领导人正式同意了一项条约，该条约规定了英国在三月退出欧盟的条件，并给出了未来英欧贸易协议的概述。
 
 May used a post-summit news conference to make a sales pitch for her plan, telling television viewers at home that it was the "only possible deal", offering control of UK borders and budgets while maintaining close alignment with EU regulations that was good for business and the security of Britain and Europe.
 
-Parliament's vote could open the door to a "brighter future" or condemn the country to more division, she said. "I will make the case for this deal with all my heart, " she added, declining to answer whether she would resign if parliament rejects it.
+> 特蕾莎·梅在峰会后的一个新闻发布会中宣传了她的计划。她告诉英国国内电视机前的观众，这份“唯一可能的协议”能够控制英国边境和财政预算，同时与欧盟法规保持高度一致。这种一致性对商业和英欧的安全都有好处。
+
+Parliament's vote could open the door to a "brighter future" or condemn the country to more division, she said. "I will make the case for this deal with all my heart," she added, declining to answer whether she would resign if parliament rejects it.
+
+> 她表示，议会的投票结果会决定是为“更光明的未来”敞开大门，还是让国家陷入更深的分裂。她补充道：“我会尽心尽力地阐明签署这项协议的理由。”对于万一议会否决协议后是否会辞职的问题，她拒绝作出回应。
 
 The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal treaty, aimed at an orderly exit in March to be followed by two to three years of a status-quo transition period. In May's exchanges at the summit, there was no discussion of what may happen if parliament rejects the deal in a vote likely to take place just before the next EU summit on Dec. 13-14.
+
+> 欧盟领导人只花了不到半小时，就例行公事地通过了 585 页的脱欧条约。这项条约的目标是在三月开始有序的退出程序，并用两到三年的时间作为维持现状的过渡阶段。特蕾莎·梅在峰会上与欧盟领导人的讨论中，没有关于议会投票否决协议后的应对措施。投票有可能在 12 月 13 至 14 日举行的下次欧盟峰会前进行。
 
 
 
