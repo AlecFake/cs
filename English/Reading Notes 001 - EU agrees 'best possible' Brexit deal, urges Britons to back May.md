@@ -2,11 +2,15 @@
 
 2018.12.06
 
+
+
+`#` 世界
+
 [EU agrees ‘best possible’ Brexit deal, urges Britons to back May](https://reading.liulishuo.com/share/audios/NGQ4MDEwMDAwMDAwMDEzNg==?login=44086617)
 
 
 
-## 新闻正文
+## Reading
 
 European Union leaders finally sealed a Brexit deal on Sunday, saying the package agreed with Prime Minister Theresa May was the best Britain will get in a warning to the British parliament not to reject it.
 
@@ -30,7 +34,7 @@ The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal 
 
 
 
-## 文章分析
+## Summary
 
 >  **EU agrees 'best possible' Brexit deal, urges Britons to back May**
 
@@ -58,7 +62,7 @@ The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal 
 
   v. 支持
 
-> European Union leaders finally sealed a Brexit deal on Sunday, saying **the package** agreed with Prime Minister Theresa May was the best Britain will get in a warning to the British parliament not to reject it.
+> European Union leaders finally **sealed a Brexit deal** on Sunday, saying **the package** agreed with Prime Minister Theresa May was the best Britain will get in **a warning to** the British **parliament** not to reject it.
 
 * seal a deal
 
@@ -80,7 +84,7 @@ The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal 
 
   议会，这里特指下议院
 
->  "**Those** who think that, by rejecting the deal, they would get a better deal, **will be disappointed**, " European Commission President Jean-Claude Juncker told reporters after the 27 other EU leaders formally endorsed a treaty setting terms for British withdrawal in March and an outline of a future EU-UK trade pact.
+>  "**Those** who think that, by rejecting the deal, they would get a better deal, **will be disappointed**, " European Commission President Jean-Claude Juncker told reporters after the 27 other EU leaders formally **endorsed** a **treaty** **setting terms** for **British withdrawal** in March and an outline of a future EU-UK **trade pact**.
 
 * endorse /ɪnˈdɔːrs/
 
@@ -128,7 +132,7 @@ The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal 
 
   a non-aggression pact 互不侵犯条约 
 
-> May used a post-summit news conference to make a sales pitch for her plan, telling television viewers at home that it was the "only possible deal", offering control of UK borders and budgets while maintaining close alignment with EU regulations that was good for business and the security of Britain and Europe.
+> May used a post-**summit** **news conference** to make a **sales pitch** for her plan, telling television viewers at home that it was the "only possible deal", offering control of UK borders and budgets while maintaining close **alignment** with EU **regulations** that was good for business and the security of Britain and Europe.
 
 * summit
 
@@ -158,7 +162,7 @@ The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal 
 
   保持高度一致
 
-> Parliament's vote could open the door to a "brighter future" or condemn the country to more division, she said. "I will make the case for this deal with all my heart, " she added, declining to answer whether she would resign if parliament rejects it.
+> Parliament's vote could **open the door to** a "brighter future" or **condemn** the country to more division, she said. "I will **make the case for** this deal with all my heart, " she added, declining to answer whether she would **resign** if parliament rejects it.
 
 * open the door to 
 
@@ -188,7 +192,7 @@ The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal 
 
   v. 辞职，辞去(某职务)
 
-> The EU leaders took barely half an hour to rubber-stamp the 585-page withdrawal treaty, aimed at an orderly exit in March to be followed by two to three years of a status-quo transition period. In May's exchanges at the summit, there was no discussion of what may happen if parliament rejects the deal in a vote likely to take place just before the next EU summit on Dec. 13-14.
+> The EU leaders took barely half an hour to **rubber-stamp** the 585-page **withdrawal treaty**, aimed at an orderly exit in March to be followed by two to three years of a **status-quo** transition period. In May's **exchanges** at the summit, there was no discussion of what may happen if parliament rejects the deal in a vote likely to take place just before the next EU summit on Dec. 13-14.
 
 * rubber-stamp /ˌrʌbər ˈstæmp/
 

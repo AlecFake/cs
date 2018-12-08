@@ -2,11 +2,15 @@
 
 2018.12.07
 
+
+
+`#` 环境
+
 [1,000 pieces of plastic found inside dead whale in Indonesia](https://reading.liulishuo.com/share/audios/NGRjMDEwMDAwMDAwMDEzNw==?login=44086617)
 
 
 
-## 新闻正文
+## Reading
 
 More than 1,000 assorted pieces of plastic, including 115 cups, 25 bags, four bottles and two flip-flops, have been found inside a dead sperm whale in Indonesia, according to local officials.
 
@@ -30,160 +34,170 @@ More than 800 species of marine animals are susceptible to the estimated 8.8 mil
 
 
 
-## 文章分析
+## Summary
 
-> More than 1,000 assorted pieces of plastic, including 115 cups, 25 bags, four bottles and two flip-flops, have been found inside a dead sperm whale in Indonesia, according to local officials.
+> **1,000 pieces of plastic found inside dead whale in Indonesia**
 
+*1,000 pieces of plastic **were** found inside **a** dead whale in Indonesia （新闻常见的省略的写法）*
 
+> More than 1,000 **assorted** pieces of plastic, including 115 cups, 25 bags, four bottles and two **flip-flops**, have been found inside a dead **sperm whale** in **Indonesia**, according to local officials. 
 
-> The whale, found washed ashoreMonday in Wakatobi National Park, was already decomposing when rescuers arrived, so investigators were unable to determine if the plastic caused its death, said Lukas Adhyakso, the conservationdirector of the World Wildlife Fund in Indonesia. The plastic weighed about 6 kilograms, or 13 pounds, he said.
+***第一段通常拓展标题，同时内容提前，来源放后，新闻的常用技巧，为了让读者尽快读到最重要的消息内容。***
 
+* assorted /əˈsɔːrtəd/ 
 
+  adj. 混杂的，各种各样的
 
-> But images of the dead whale resonated in Indonesia, a country that has started to reckon with its outsize use of plastics. Indonesia, a nation of about 260 million people spread over thousands of islands in Southeast Asia, was the world’s second-biggest producer of plastic waste in 2015, behind only China, according to a study in the journal Science.
+  e.g.
 
+  assorted sweets
 
+  assorted vegetables
 
-> Ingesting plastic can give whales a false sense of satiation, leading them to eat less food that provides the nutrients they need, said Nicholas Mallos, director of the Trash Free Seas program at Ocean Conservancy, an environmental nonprofit. Consumption of plastics can lead to reduced weight, energy and swimming speed, making whales more vulnerable topredators.
+* sperm whale /ˈspɜːrm weɪl/
 
+  n. 抹香鲸
 
+* flip-flops /ˈflɪp flɑːp/ 
 
-> More than 800 species of marine animals are susceptible to the estimated 8.8 million tons of plastics deposited each year in the ocean, Mallos said, and often in ways that do not lead to graphic imagery like the whale in Indonesia. Plastics can entangle and trap animals, sometimes causing them to drown, or pierce elements of their digestive systems after being swallowed.
+  n.（塑料、橡胶）平底人字拖鞋
 
+> The whale, found washed **ashore** Monday in **Wakatobi National Park**, was already **decomposing** when rescuers arrived, so investigators were unable to determine if the plastic caused its death, said Lukas Adhyakso, the **conservation** director of the World Wildlife Fund in Indonesia. The plastic weighed about 6 **kilograms**, or 13 pounds, he said.
 
+* ashore /əˈʃɔːr/
 
-assorted
+  adv. 向岸，向陆地
 
-/əˈsɔːrtəd/ 
+  e.g.
 
-adj. 混杂的，各种各样的
+  offshore
 
-e.g.
+* decompose /ˌdiːkəmˈpoʊz/ 
 
-assorted sweets
+  v.腐败，腐烂
 
-assorted vegetables
+* conservation /ˌkɑːnsərˈveɪʃn/
 
-sperm whale
+  n.保护；保持 （conserve v.）
 
-/ˈspɜːrm weɪl/
+* kilogram
 
-n. 抹香鲸
+  n.千克
 
-flip-flop
+> But images of the dead whale **resonated** in Indonesia, a country that has started to **reckon with** its **outsize** use of plastics. Indonesia, a nation of about 260 million people spread over thousands of islands in Southeast Asia, was the world’s second-biggest producer of **plastic waste** in 2015, behind only China, according to a study in the **journal** Science.
 
-/ˈflɪp flɑːp/ 
+* resonate /ˈrezəneɪt/
 
-n.（塑料、橡胶）平底人字拖鞋
+  v. 回响，回荡，产生影响
 
-decompose
+  e.g.
 
-/ˌdiːkəmˈpoʊz/ 
+  The sound of the siren resonated across the harbour.
 
-v. 腐败，腐烂
+  What he said resonated with the voters.
 
-ashore
+* reckon with
 
-/əˈʃɔːr/
+  考虑到，预料到，这里是指认识到
 
-adv. 向岸，向陆地
+* outsize /ˈaʊtsaɪz/
 
-e.g.
+  adj. 极大的，超大型的
 
-offshore
+  e.g.
 
-conservation
+  an outsize desk
 
-/ˌkɑːnsərˈveɪʃn/
+  outsize clothes
 
-n. 保护；保持（conserve v.）
+* plastic waste 
 
-resonate
+  塑料废品
 
-/ˈrezəneɪt/
+* journal
 
-v. 回响，回荡
+  杂志，期刊
 
-e.g.
+> ***Ingesting*** plastic can give whales a false **sense of** **satiation**, leading them to eat less food that provides the **nutrients** they need, said Nicholas Mallos, director of the Trash Free Seas program at Ocean **Conservancy**, an **environmental nonprofit**. ***Consumption*** of plastics can lead to reduced weight, energy and swimming speed, making whales more **vulnerable to** **predators**.
 
-The sound of the siren resonated across the harbour.
+* ingest /ɪnˈdʒest/
 
-What he said resonated with the voters.
+  v. 摄取（食物、饮料等）
 
-reckon with
+* sense of 
 
-考虑到，预料到
+  ...的感觉
 
-outsize
+* satiation /ˌseɪʃiˈeɪʃn/
 
-/ˈaʊtsaɪz/
+  n. 饱食
 
-adj. 极大的，超大型的
+  e.g.
 
-e.g.
+  Hunting is usually initiated by hunger and stopped by satiation.
 
-an outsize desk
+* nutrient /ˈnuːtriənt/
 
-outsize clothes
+  n. 营养（物质），养料
 
-ingest
+  e.g.
 
-/ɪnˈdʒest/
+  advice on diet and nutrition (n.)
 
-v. 摄取（食物、饮料等）
+  a serious nutrient **deficiency** (不足)
 
-satiation
+* conservancy /kənˈsərvənsē/
 
-/ˌseɪʃiˈeɪʃn/
+  n.保护，保存；管理局
 
-n. 饱食
+* vulnerable to
 
-e.g.
+  易受...的伤害
 
-Hunting is usually initiated by hunger and stopped by satiation.
+  e.g.
 
-nutrient
+  We were in a vulnerable position.
 
-/ˈnuːtriənt/
+  Babies are more vulnerable to diseases.
 
-n. 营养（物质），养料
+* predator /ˈpredətər/
 
-e.g.
+  捕食者
 
-advice on diet and nutrition (n.)
+> More than 800 species of marine animals **are susceptible to** the **estimated** 8.8 million tons of plastics **deposited** each year in the ocean, Mallos said, and often **in ways that** do not lead to **graphic imagery** like the whale in Indonesia. Plastics can **entangle** and trap animals, sometimes causing them to drown, or **pierce** elements of their **digestive** systems after being swallowed.
 
-a serious nutrient deficiency
+* susceptible to
 
-vulnerable to 
+  易受影响（或伤害等）
 
-易受...的伤害
+  e.g.
 
-e.g.
+  Babies are susceptible to diseases.
 
-We were in a vulnerable position.
+* estimate
 
-Babies are more vulnerable to diseases.
+  v. 估计，测量
 
-susceptible to
+* deposit
 
-易受影响（或伤害等）
+  n. 沉积 v.淤积
 
-e.g.
+* in ways that
 
-Babies are susceptible to diseases.
+  以这样的方式
 
-imagery
+* imagery /ˈɪmɪdʒəri/ 
 
-/ˈɪmɪdʒəri/ 
+  n. 图像
 
-n. 图像
+* pierce /pɪrs/ 
 
-pierce
+  v. 刺破，刺穿
 
-/pɪrs/ 
+  e.g.
 
-v. 刺破，刺穿
+  The spindle(纺锤) pierced the princess’s finger.
 
-e.g.
+* digest
 
-The spindle pierced the princess’s finger.
+  v.消化
